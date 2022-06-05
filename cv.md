@@ -1,3 +1,4 @@
+<img src="/img/photo.png" alt="Aleksei Gerasimenko" title="Aleksei Gerasimenko" width="160px">
 # Aleksei Gerasimenko
 Lead UX/UI Designeer
 
