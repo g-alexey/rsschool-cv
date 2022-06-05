@@ -1,4 +1,4 @@
-<img src="/rsschool-cv/img/photo.png" alt="Aleksei Gerasimenko" title="Aleksei Gerasimenko" width="160px">
+<img src="https://github.com/g-alexey/rsschool-cv/raw/gh-pages/img/photo.png" alt="Aleksei Gerasimenko" title="Aleksei Gerasimenko" width="160px">
 
 # Aleksei Gerasimenko
 Lead UX/UI Designeer
