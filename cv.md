@@ -4,7 +4,7 @@
 Lead UX/UI Designeer
 
 ### About me:
-I have a lot of experience in the field of design, but I want to develop as well towards front-end development, as I have always been interested in this.  Additionally, in my opinion, this will increase my value in the market and help me in my work.
+I have a lot of experience in the field of design, but I want to develop as well towards front-end development, as I have always been interested in this. Additionally, in my opinion, this will increase my value in the market and help me in my work.
 
 ---
 
