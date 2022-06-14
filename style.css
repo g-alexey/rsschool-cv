@@ -76,6 +76,15 @@ table {
 	border-spacing: 0;
 }
 
+code {
+    background-color: #1a1a1a;
+    padding: 24px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    margin: 24px 0;
+    font-family: monospace;
+}
+
 .intro {
     background-color: #1a1a1a;
     width: 100%;
@@ -84,7 +93,7 @@ table {
 
 hr {
     border: 0.5px solid rgba(0, 0, 0, 0.08);
-    margin: 56px 0;
+    margin: 64px 0;
 }
 
 nav {
@@ -172,4 +181,32 @@ article {
     padding: 24px;
     border-radius: 8px;
     border: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+footer {
+    background-color: #1a1a1a;
+    width: 100%;
+    padding: 2vw 0 2vw 0;
+    color: #FFFFFF;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer img {
+    width: 120px;
+    background-color: #FFFFFF;
+    padding: 12px;
+    border-radius: 8px;
+}
+
+footer a {
+    color: rgba(0, 102, 255, 0.74);
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
 }
